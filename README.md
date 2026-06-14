@@ -6,6 +6,7 @@
 - Goal 3: Push the first block against the 2nd to move the 2nd block to either the corner of the table.
 - Goal 4: Create a barrier between the left and right side of the table at ⅓ the height of an imported 6-DOF arm, pick up a block and move it onto the other side of the barrier
 - Goal 5: Incorporate collection of sensor data that can realistically be used (RGB, tactile, IMU, joint-state, etc.).
+- Goal 6: Perform the next step of this challenge. The next most important step to making this training data for a VLA model. 
 
 ## Setup
 
